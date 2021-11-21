@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Dragonian_Slave.label>dragonian slave</Dragonian_Slave.label>
+  <Dragonian_Slave.labelPlural>dragonian slaves</Dragonian_Slave.labelPlural>
+  <Dragonian_Slave.labelMale>male dragonian slave</Dragonian_Slave.labelMale>
+  <Dragonian_Slave.labelMalePlural>male dragonian slaves</Dragonian_Slave.labelMalePlural>
+  <Dragonian_Slave.labelFemale>female dragonian slave</Dragonian_Slave.labelFemale>
+  <Dragonian_Slave.labelFemalePlural>female dragonian slaves</Dragonian_Slave.labelFemalePlural>
+
+  <Dragonian.label>wild dragonian</Dragonian.label>
+  <Dragonian.labelPlural>wild dragonian</Dragonian.labelPlural>
+  <Dragonian.labelMale>male wild dragonian</Dragonian.labelMale>
+  <Dragonian.labelMalePlural>male wild dragonian</Dragonian.labelMalePlural>
+  <Dragonian.labelFemale>wild dragonian</Dragonian.labelFemale>
+  <Dragonian.labelFemalePlural>wild dragonian</Dragonian.labelFemalePlural>
+
+  <!--<Dragonian.label>dragonian</Dragonian.label>-->
+  <!--<Dragonian.labelPlural>dragonians</Dragonian.labelPlural>-->
+  <!--<Dragonian.labelMale>male dragonian</Dragonian.labelMale>-->
+  <!--<Dragonian.labelMalePlural>male dragonians</Dragonian.labelMalePlural>-->
+  <!--<Dragonian.labelFemale>female dragonian</Dragonian.labelFemale>-->
+  <!--<Dragonian.labelFemalePlural>female dragonians</Dragonian.labelFemalePlural>-->
+  <!--[Core] <WildMan.label>wild man</WildMan.label>-->
+  <!--[Core] <WildMan.labelPlural>wild men</WildMan.labelPlural>-->
+  <!--[Core] <WildMan.labelMale>male wild man</WildMan.labelMale>-->
+  <!--[Core] <WildMan.labelMalePlural>male wild men</WildMan.labelMalePlural>-->
+  <!--[Core] <WildMan.labelFemale>wild woman</WildMan.labelFemale>-->
+  <!--[Core] <WildMan.labelFemalePlural>wild women</WildMan.labelFemalePlural>-->
+
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Dragonian_Slave.label>драгониан-раб</Dragonian_Slave.label>
+  <Dragonian_Slave.labelPlural>драгониан-рабы</Dragonian_Slave.labelPlural>
+  <Dragonian_Slave.labelMale>драгониан-раб</Dragonian_Slave.labelMale>
+  <Dragonian_Slave.labelMalePlural>драгониан-рабы</Dragonian_Slave.labelMalePlural>
+  <Dragonian_Slave.labelFemale>драгониан-раб</Dragonian_Slave.labelFemale>
+  <Dragonian_Slave.labelFemalePlural>драгониан-рабы</Dragonian_Slave.labelFemalePlural>
+
+  <Dragonian.label>дикая драгониан</Dragonian.label>
+  <Dragonian.labelPlural>дикие драгонианы</Dragonian.labelPlural>
+  <Dragonian.labelMale>дикая драгониан</Dragonian.labelMale>
+  <Dragonian.labelMalePlural>дикие драгонианы</Dragonian.labelMalePlural>
+  <Dragonian.labelFemale>дикая драгониан</Dragonian.labelFemale>
+  <Dragonian.labelFemalePlural>дикие драгонианы</Dragonian.labelFemalePlural>
+
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Dragonian_Slave.label>男性 奴隷ドラコニアン</Dragonian_Slave.label>
+  <Dragonian_Slave.labelPlural>男性 奴隷ドラコニアンたち</Dragonian_Slave.labelPlural>
+  <Dragonian_Slave.labelMale>男性 奴隷ドラコニアン</Dragonian_Slave.labelMale>
+  <Dragonian_Slave.labelMalePlural>男性 奴隷ドラコニアンたち</Dragonian_Slave.labelMalePlural>
+  <Dragonian_Slave.labelFemale>女性 奴隷ドラコニアン</Dragonian_Slave.labelFemale>
+  <Dragonian_Slave.labelFemalePlural>女性 奴隷ドラコニアンたち</Dragonian_Slave.labelFemalePlural>
+
+  <Dragonian.label>女性 野生ドラコニアン</Dragonian.label>
+  <Dragonian.labelPlural>女性 野生ドラコニアンたち</Dragonian.labelPlural>
+  <Dragonian.labelMale>男性 野生ドラコニアン</Dragonian.labelMale>
+  <Dragonian.labelMalePlural>男性 野生ドラコニアンたち</Dragonian.labelMalePlural>
+  <Dragonian.labelFemale>女性 野生ドラコニアン</Dragonian.labelFemale>
+  <Dragonian.labelFemalePlural>女性 野生ドラコニアンたち</Dragonian.labelFemalePlural>
+
+</LanguageData>

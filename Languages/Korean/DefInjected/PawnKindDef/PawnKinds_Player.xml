@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Dragonian_Slave.label>드라고니안 노예</Dragonian_Slave.label>
+  <Dragonian_Slave.labelPlural>드라고니안 노예들</Dragonian_Slave.labelPlural>
+  <Dragonian_Slave.labelMale>남성 드라고니안 노예</Dragonian_Slave.labelMale>
+  <Dragonian_Slave.labelMalePlural>남성 드라고니안 노예들</Dragonian_Slave.labelMalePlural>
+  <Dragonian_Slave.labelFemale>여성 드라고니안 노예</Dragonian_Slave.labelFemale>
+  <Dragonian_Slave.labelFemalePlural>여성 드라고니안 노예들</Dragonian_Slave.labelFemalePlural>
+
+  <Dragonian.label>야생 드라고니안</Dragonian.label>
+  <Dragonian.labelPlural>야생 드라고니안</Dragonian.labelPlural>
+  <Dragonian.labelMale>남성 야생 드라고니안</Dragonian.labelMale>
+  <Dragonian.labelMalePlural>남성 야생 드라고니안</Dragonian.labelMalePlural>
+  <Dragonian.labelFemale>야생 드라고니안</Dragonian.labelFemale>
+  <Dragonian.labelFemalePlural>야생 드라고니안</Dragonian.labelFemalePlural>
+
+</LanguageData>
